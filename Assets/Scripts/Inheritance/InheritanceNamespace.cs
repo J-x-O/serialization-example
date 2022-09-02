@@ -1,7 +1,6 @@
 ﻿using System;
-using Inheritance;
 
-namespace InheritancePrior {
+namespace Inheritance {
     
     /// <summary> This class was moved from "InheritancePrior" to "Inheritance" </summary>
     [Serializable]
